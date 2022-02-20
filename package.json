@@ -1,0 +1,23 @@
+{
+  "name": "javascriptbook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "example.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AvaOhland/JS100-javascriptBook.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AvaOhland/JS100-javascriptBook/issues"
+  },
+  "homepage": "https://github.com/AvaOhland/JS100-javascriptBook#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
