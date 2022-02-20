@@ -1,6 +1,6 @@
-/* Chapter 1 - The Basics
-*  Exercises 1-12
-*/
+// Chapter 1 - The Basics
+// Exercises 1-12
+
 
 // Exercise 1
 'Ava ' + 'Ohland';
@@ -31,6 +31,7 @@ let thousands = (num -(num % 1000)) / 1000;
 *  string in it as a string, and coherces any non-string values 
 *  to the String data type and then concatenates the Strings.
 */
+
 
 // Exercise 5
 console.log(Number('5') + 10);
@@ -65,6 +66,12 @@ let pets = {
 
 
 // Exercise 10
+// false
+
+
 // Exercise 11
+// 3
+
+
 // Exercise 12
-// Exercise 13
+// true
